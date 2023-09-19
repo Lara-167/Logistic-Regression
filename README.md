@@ -20,8 +20,18 @@
 
 #Code-Ausführung:
   #GitHub URL des Repository "Logistic-Regression" in https://mybinder.org/ einfügen und launchen
-  #Die Code-Zeilen müssen nacheinander ausgeführt werden.
-  #Future Warning ist lediglich eine Warninformation und kann erstmal vernachlässigt werden, da es für zukünftige Versionen gilt.
+  #Notebook öffnen
+  #Code-Zeilen nacheinander ausführen lassen
+  #Future Warning ist eine Warninformation und gilt für zukünftige Versionen.
 
-  #Es ist mit einer Accuracy von 0.91 zu rechnen.
-  #Damit sind 91% der Vorhersagen der Modelle korrekt.
+#Code-Abfolge:
+    1. Libraries importieren (nachdem sie vorab durch binder installiert wurden)
+    2. Daten einlesen
+    3. Explorative Datenanalyse
+    4. Logistische Regression
+    5. Vorhersagen und Auswertung
+
+#Projektergebnis:
+    #Es ist mit einer Accuracy von 0.91 zu rechnen.
+    #Damit sind 91% der Vorhersagen der Modelle korrekt.
+    #Der Klassifizierungsreport zeigt die Genauigkeit des Modells, um anhand von Nutzereigenschaften vorherzusagen, ob ein Nutzer auf eine Werbeanzeige klicken wird oder nicht.
