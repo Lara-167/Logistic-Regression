@@ -25,10 +25,10 @@
 
 #Code-Abfolge:
     1. Libraries importieren (nachdem sie vorab durch binder installiert wurden)
-    2. Daten einlesen
-    3. Explorative Datenanalyse
-    4. Logistische Regression
-    5. Vorhersagen und Auswertung
+    2. Daten einlesen aus der Datei Advertising.csv
+    3. Explorative Datenanalyse durchführen; Modellbildung mit seaborn
+    4. Logistische Regression; Aufteilung der Daten in Test- und Trainingsdaten, um ein logistisches Regressionsmodell zu trainieren
+    5. Vorhersagen und Auswertung vornehmen mithilfe eines Klassifizierungsreports
 
 #Projektergebnis:
     Es ist mit einer Accuracy von 0.91 zu rechnen.
